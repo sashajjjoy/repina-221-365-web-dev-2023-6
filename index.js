@@ -16,7 +16,7 @@
         <nav class="navbar navbar-expand-lg ">
             <div class="container py-2">
               <img src="./images/logo.png" alt="Логотип" style="width: 48px;">
-              <h2 class="ps-2 text-warning fw-bold">Fungi</h2>
+              <h2 class="ps-2 text-warning fw-bold">MLP</h2>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
               </button>
@@ -26,7 +26,7 @@
                     <a class="nav-link"  href="#">О курсе</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Программа</a>
+                    <a class="nav-link" href="#">Проект</a>
                   </li>
                   <li class="nav-item">
                     <a class="nav-link" href="#">Технологии</a>
@@ -54,7 +54,7 @@
                 <a href="#feedback" class="btn btn-dark">Написать нам</a>
               </div>
               <div class="col-md-6 text-center">
-                <img class="w-100" src="images/overwiev.png">
+                <img class="w-100" src="images/fanstola2123.png">
               </div>
             </div>
           </div>
@@ -62,7 +62,7 @@
           <section class="bg-dark ">
             <div class="container text-white py-5 px-5">
                 <div class="text-center mt-3">
-                    <h2 class="fw-bold">Инвестируйте в стартап будущего</h2>
+                    <h2 class="fw-bold">Инвестируйте в наш проект</h2>
                 </div>
                 <div class="text-center">
                     <p>dfs.</p>
